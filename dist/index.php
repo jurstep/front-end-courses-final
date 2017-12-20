@@ -26,6 +26,57 @@
             <?php include "Components/feature.php"?>
         </div>
     </section>
+<section class="recent-projects">
+    <div class="container">
+        <h2>Recent projects</h2>
+        <div class="slider-box">
+            <div class="slide">
+                <img src="img/slider-box/rx7fc-bp.png" alt="">
+            </div>
+            <div class="slide">
+                <img src="img/slider-box/rx7fd-bp.png" alt="">
+            </div>
+            <div class="slide">
+                <img src="img/slider-box/gtr-bp.png" alt="">
+            </div>
+        </div>
+        <div class="navigation">
+            <div class="left">
+                <i class="fa fa-chevron-left" aria-hidden="true"></i>
+            </div>
+            <div class="right">
+                <i class="fa fa-chevron-right" aria-hidden="true"></i>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="counter">
+    <div class="container">
+        <div class="counter-wrapper">
+            <h2>371</h2>
+            <h3>Happy clients</h3>
+        </div>
+    </div>
+    <div class="container">
+        <div class="counter-wrapper">
+            <h2>371</h2>
+            <h3>Happy clients</h3>
+        </div>
+    </div>
+    <div class="container">
+        <div class="counter-wrapper">
+            <h2>371</h2>
+            <h3>Happy clients</h3>
+        </div>
+    </div>
+    <div class="container">
+        <div class="counter-wrapper">
+            <h2>371</h2>
+            <h3>Happy clients</h3>
+        </div>
+    </div>
+</section>
+    <?php include "Components/footer.php" ?>
 </body>
 </html>
 

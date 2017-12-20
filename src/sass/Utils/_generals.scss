@@ -1,0 +1,16 @@
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+body{
+  background: $color-white;
+  text-align: center;
+}
+
+.container{
+  margin: auto;
+
+  max-width: 1140px;
+}
